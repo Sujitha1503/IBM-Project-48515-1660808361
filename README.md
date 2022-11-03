@@ -1,9 +1,4 @@
-<!-- PROJECT LOGO -->
 
-  <a href="https://github.com/IBM-EPBL/IBM-Project-48515-1660808361">
-    <img src="https://raw.githubusercontent.com/FaraazAhmedC/FaraazAhmedC/main/IBM_logo.svg.png" alt="Logo" width="320" height="128">
- 
- </a>
 
 <br />
 
